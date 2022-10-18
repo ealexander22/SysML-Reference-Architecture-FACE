@@ -1,4 +1,6 @@
 {
 
 	"name": "SysML Reference Architecture - FACE"
+	"description":"SysML model of the FACE standard",
+	"repoURL":"https://github.com/ealexander22/SysML-Reference-Architecture-FACE.git"
 }
